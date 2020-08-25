@@ -6,6 +6,5 @@ This is my first repo for Demo
 
 ___________
 
-...
 print('hello world')
-...
+
